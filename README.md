@@ -1,17 +1,12 @@
 No Red Ink Question
 =========================
 
+To run:
+- unzip
+- make sure you have npm
+- cd into unzipped project folder
+- npm install
+- npm start server.js
 
-
-
-Your Project
-------------
-
-On the back-end,
-- your app starts at `server.js`
-- add frameworks and packages in `package.json`
-- safely store app secrets in `.env`
-
-On the front-end,
-- edit `public/client.js`, `public/style.css` and `views/index.html`
-- drag in `assets`, like images or music, to add them to your project
+Then in a browser,
+- localhost:8888
