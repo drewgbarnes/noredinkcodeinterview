@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+#bootstrap-override{
+  background-color : #394452;
+}
+
+#bootstrap-override p, #bootstrap-override label, #bootstrap-override h1, #bootstrap-override h2, #bootstrap-override li  {
+  color: #fff;
+}
+
+#bootstrap-override .container {
+  background-color: #343D4B;
+  border-radius: 3px;
+  border-top: 5px solid #82D14C;
+  max-width:600px;
+}
+
+#bootstrap-override .row {
+  margin-bottom:10px;
+}
+
+#bootstrap-override .btn {
+  background-color: #82D14C;
+  color: #fff;
+  border-radius: 3px;
+}
